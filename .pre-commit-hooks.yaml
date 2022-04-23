@@ -1,0 +1,6 @@
+--
+- id: earlybird
+  name: Sensitive data detection tool
+  description: Scanning source code repositories for clear text password violations, PII, outdated cryptography methods, key files and more
+  entry: earlybird-hook
+  language: golang
